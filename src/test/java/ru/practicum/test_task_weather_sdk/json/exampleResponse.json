@@ -1,0 +1,21 @@
+{
+  "weather": {
+    "main": "Clouds",
+    "description": "overcast clouds"
+  },
+  "temperature": {
+    "temp": 48.78,
+    "feels_like": 48.78
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.46
+  },
+  "datetime": 1740406884,
+  "sys": {
+    "sunrise": 1740376916,
+    "sunset": 1740416215
+  },
+  "timezone": 3600,
+  "name": "Zocca"
+}
